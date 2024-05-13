@@ -20,7 +20,7 @@ This dataset could be used for image stitching benchmarking frameworks for retai
 
 ## Dataset
 
-> [!IMPORTANT]
+> [!NOTE]
 > :arrow_down_small: [Download RemRetail100 Dataset](https://rempeople.com/datasets/remretail100.html)
 
 ![10001](assets/samples/1/0001.jpg) | ![10002](assets/samples/1/0002.jpg) |![10003](assets/samples/1/0003.jpg)
